@@ -58,10 +58,5 @@ public class Solution
 		}
 	}
 
-
-
-
-
-
 }
-
+//main method cal
